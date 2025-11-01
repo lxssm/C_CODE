@@ -1,0 +1,14 @@
+﻿  test.c
+E:\C C++ files\c-language\C_Test_2025_8_23\C_Test_2025_8_23\test.c(10,3): warning C4033: “checkwin”必须返回值
+E:\C C++ files\c-language\C_Test_2025_8_23\C_Test_2025_8_23\test.c(21,5): warning C4033: “checkwin”必须返回值
+E:\C C++ files\c-language\C_Test_2025_8_23\C_Test_2025_8_23\test.c(27,5): warning C4033: “checkwin”必须返回值
+E:\C C++ files\c-language\C_Test_2025_8_23\C_Test_2025_8_23\test.c(40,5): warning C4033: “checkwin”必须返回值
+E:\C C++ files\c-language\C_Test_2025_8_23\C_Test_2025_8_23\test.c(46,5): warning C4033: “checkwin”必须返回值
+E:\C C++ files\c-language\C_Test_2025_8_23\C_Test_2025_8_23\test.c(56,4): warning C4033: “checkwin”必须返回值
+E:\C C++ files\c-language\C_Test_2025_8_23\C_Test_2025_8_23\test.c(62,4): warning C4033: “checkwin”必须返回值
+E:\C C++ files\c-language\C_Test_2025_8_23\C_Test_2025_8_23\test.c(71,4): warning C4033: “checkwin”必须返回值
+E:\C C++ files\c-language\C_Test_2025_8_23\C_Test_2025_8_23\test.c(77,4): warning C4033: “checkwin”必须返回值
+E:\C C++ files\c-language\C_Test_2025_8_23\C_Test_2025_8_23\test.c(130,3): warning C4098: “ComputerMove”:“void”函数返回值
+E:\C C++ files\c-language\C_Test_2025_8_23\C_Test_2025_8_23\test.c(131,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\C C++ files\c-language\C_Test_2025_8_23\C_Test_2025_8_23\test.c(85,1): warning C4716: “checkwin”: 必须返回一个值
+  C_Test_2025_8_23.vcxproj -> E:\C C++ files\c-language\C_Test_2025_8_23\x64\Debug\C_Test_2025_8_23.exe
