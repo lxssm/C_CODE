@@ -1,0 +1,15 @@
+﻿E:\Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(548,5): warning MSB8029: 中间目录或输出目录无法驻留在临时目录下，因为这可能会导致增量生成出现问题。
+  test.c
+E:\C C++ files\c-language\C_Test_2025_10_2\C_Test_2025_10_2\test.c(25,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+      E:\C C++ files\c-language\C_Test_2025_10_2\C_Test_2025_10_2\test.c(25,9):
+      请考虑在格式字符串中使用“%zu”
+  
+E:\C C++ files\c-language\C_Test_2025_10_2\C_Test_2025_10_2\test.c(26,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+      E:\C C++ files\c-language\C_Test_2025_10_2\C_Test_2025_10_2\test.c(26,9):
+      请考虑在格式字符串中使用“%zu”
+  
+E:\C C++ files\c-language\C_Test_2025_10_2\C_Test_2025_10_2\test.c(27,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+      E:\C C++ files\c-language\C_Test_2025_10_2\C_Test_2025_10_2\test.c(27,9):
+      请考虑在格式字符串中使用“%zu”
+  
+  C_Test_2025_10_2.vcxproj -> E:\C C++ files\c-language\C_Test_2025_10_2\x64\Debug\C_Test_2025_10_2.exe
