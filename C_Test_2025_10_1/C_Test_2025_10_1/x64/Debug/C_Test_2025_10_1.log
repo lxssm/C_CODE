@@ -1,0 +1,8 @@
+﻿E:\Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(548,5): warning MSB8029: 中间目录或输出目录无法驻留在临时目录下，因为这可能会导致增量生成出现问题。
+  Heap.c
+E:\C C++ Files\c-language\C_Test_2025_10_1\C_Test_2025_10_1\Heap.c(171,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\C C++ Files\c-language\C_Test_2025_10_1\C_Test_2025_10_1\Heap.c(204,16): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  test.c
+E:\C C++ Files\c-language\C_Test_2025_10_1\C_Test_2025_10_1\test.c(30,2): warning C4098: “AutoHeap”:“void”函数返回值
+  正在生成代码...
+  C_Test_2025_10_1.vcxproj -> E:\C C++ Files\c-language\C_Test_2025_10_1\x64\Debug\C_Test_2025_10_1.exe
