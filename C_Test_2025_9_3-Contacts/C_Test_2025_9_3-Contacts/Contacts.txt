@@ -1,0 +1,4 @@
+3 4
+zhangsan 18 man 100
+wangwu 20 man 102
+lisi 19 woman 101
