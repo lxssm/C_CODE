@@ -1,0 +1,12 @@
+﻿E:\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(548,5): warning MSB8029: 中间目录或输出目录无法驻留在临时目录下，因为这可能会导致增量生成出现问题。
+  Snake.c
+E:\C C++ Files\c-language\C_Test_2025_9_10-Greedy_Snake\C_Test_2025_9_10-Greedy_Snake\Snake.c(460,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      E:\C C++ Files\c-language\C_Test_2025_9_10-Greedy_Snake\C_Test_2025_9_10-Greedy_Snake\Snake.c(460,10):
+      请考虑在格式字符串中使用“%zd”
+  
+E:\C C++ Files\c-language\C_Test_2025_9_10-Greedy_Snake\C_Test_2025_9_10-Greedy_Snake\Snake.c(448,1): warning C4102: “again”: 未引用的标签
+E:\C C++ Files\c-language\C_Test_2025_9_10-Greedy_Snake\C_Test_2025_9_10-Greedy_Snake\Snake.c(446,7): warning C4101: “ch”: 未引用的局部变量
+E:\C C++ Files\c-language\C_Test_2025_9_10-Greedy_Snake\C_Test_2025_9_10-Greedy_Snake\Snake.c(503,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  test.c
+  正在生成代码...
+  C_Test_2025_9_10-Greedy_Snake.vcxproj -> E:\C C++ Files\c-language\C_Test_2025_9_10-Greedy_Snake\x64\Debug\C_Test_2025_9_10-Greedy_Snake.exe
